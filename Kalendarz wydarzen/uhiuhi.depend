@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1544471713 source:c:\users\justyna\desktop\uhiuhi\main.cpp
+	<iostream>
+	"Event.h"
+
+1544470611 c:\users\justyna\desktop\uhiuhi\include\event.h
+	<iostream>
+
+1544471713 source:c:\users\justyna\desktop\uhiuhi\src\event.cpp
+	"Event.h"
+	<iostream>
+
